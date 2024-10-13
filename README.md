@@ -32,13 +32,14 @@ The following Python libraries are required to run the notebook:
 
 ## Data Loading
 The dataset is loaded from a CSV file.
-### Exploratory Data Analysis (EDA): A preliminary analysis of the dataset is performed, including visualizations like box plots, histograms, and pair plots.
-### Feature Selection: Features are selected using techniques like SelectKBest with a scoring function suited for regression (e.g., f_regression).
-### Model Training: Different regression models (like Linear Regression, Decision Trees, etc.) are trained to predict the cellphone prices based on selected features.
-### Model Evaluation: The models are evaluated using metrics like mean squared error (MSE) and R-squared.
+Exploratory Data Analysis (EDA): A preliminary analysis of the dataset is performed, including visualizations like box plots, histograms, and pair plots.
+Feature Selection: Features are selected using techniques like SelectKBest with a scoring function suited for regression (e.g., f_regression).
+Model Training: Different regression models (like Linear Regression, Decision Trees, etc.) are trained to predict the cellphone prices based on selected features.
+Model Evaluation: The models are evaluated using metrics like mean squared error (MSE) and R-squared.
+
 ## Key Techniques Used:
-### Feature Selection: Uses SelectKBest to select the top 10 most important features.
-### Regression Algorithms: Trains models like Linear Regression, Decision Trees, or other regressors.
+Feature Selection: Uses SelectKBest to select the top 10 most important features.
+Regression Algorithms: Trains models like Linear Regression, Decision Trees, or other regressors.
 
 ## The Final evaluation metrics 
 
