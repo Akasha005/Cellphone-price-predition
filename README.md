@@ -9,11 +9,11 @@
 5. Results
 
 ## Introduction
-### The Cellphone Price Prediction project aims to predict the prices of cellphones based on their features using a supervised machine learning approach.  
-### The model utilizes multiple feature selection techniques and regression algorithms to create a reliable predictive model.  
+The Cellphone Price Prediction project aims to predict the prices of cellphones based on their features using a supervised machine learning approach.  
+The model utilizes multiple feature selection techniques and regression algorithms to create a reliable predictive model.  
 
 ## Dataset
-### The dataset used in this project is stored in a CSV file (train.csv) and contains several columns representing different features of cellphones.  
+The dataset used in this project is stored in a CSV file (train.csv) and contains several columns representing different features of cellphones.  
 ### Some of the features include:  
 - Battery life
 - RAM
